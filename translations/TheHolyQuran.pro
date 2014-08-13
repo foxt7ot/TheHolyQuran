@@ -1,0 +1,1 @@
+include (../TheHolyQuran.pro)
